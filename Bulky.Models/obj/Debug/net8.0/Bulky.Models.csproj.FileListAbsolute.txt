@@ -1,0 +1,14 @@
+D:\Shafi_Desktop_Backup\Personal\DOT_NET_CORE\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+D:\Shafi_Desktop_Backup\Personal\DOT_NET_CORE\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.runtimeconfig.json
+D:\Shafi_Desktop_Backup\Personal\DOT_NET_CORE\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+D:\Shafi_Desktop_Backup\Personal\DOT_NET_CORE\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+D:\Shafi_Desktop_Backup\Personal\DOT_NET_CORE\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
+D:\Shafi_Desktop_Backup\Personal\DOT_NET_CORE\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shafi_Desktop_Backup\Personal\DOT_NET_CORE\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+D:\Shafi_Desktop_Backup\Personal\DOT_NET_CORE\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+D:\Shafi_Desktop_Backup\Personal\DOT_NET_CORE\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+D:\Shafi_Desktop_Backup\Personal\DOT_NET_CORE\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+D:\Shafi_Desktop_Backup\Personal\DOT_NET_CORE\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+D:\Shafi_Desktop_Backup\Personal\DOT_NET_CORE\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+D:\Shafi_Desktop_Backup\Personal\DOT_NET_CORE\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.genruntimeconfig.cache
+D:\Shafi_Desktop_Backup\Personal\DOT_NET_CORE\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
